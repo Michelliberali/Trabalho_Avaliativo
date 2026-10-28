@@ -2,6 +2,13 @@
 
 Sistema de registro de ponto com cadastro de funcionários, captura de foto, reconhecimento facial pelo DeepFace e histórico de entrada, saída e intervalos. Projeto desenvolvido conforme a atividade avaliativa fornecida.
 
+## Integrantes
+
+- Michel Liberali Santos
+- Igor Felipe Moretto
+- Gustavo Maxuel De Moura
+- Alison Anthony Galvan
+
 ## Tecnologias
 
 - React e Vite na interface
